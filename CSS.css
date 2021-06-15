@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo{
+    width: 10%;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 9%;
+}
+
+.HC{
+    width: 100%;
+    height: 10%;
+    background-color: #b2b8a3;
+    display: block;
+    padding-right: 3%;
+
+    
+}
+
+.MainC{
+    width: 100%;
+    height: 70%;
+    background-color: #f6dcbf;
+    background-image: url("img/bg1.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    
+}
+
+.SubC{
+    width: 60%;
+    height: 60%;
+    margin-left: 13%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding:7%;
+    padding-top: 2%;
+    background-color: #e4efe7;
+    display: inline-block;
+    border-radius: 6%;
+    border: 1% solid #f7a9a8;
+    align-content: center;
+    
+}
+
+
+.sh{
+    text-align: center;
+    color: rgb(197, 82, 105);
+    text-decoration: solid black 1px;
+}
+
+.lable{
+    display: inline-block;
+    margin: 1%;
+    padding: 1%;
+    margin-bottom: 3%;
+    width: 4%;
+    
+}
+
+.input{
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.td{
+    width: 100%;
+    display: block;
+    align-items: center;
+}
+
+.FC{
+    width: 100%;
+    height: 20%;
+    background-color: #f6dcbf;
+    display: block;
+    text-align: center;
+    padding: 2%;
+    color: #0b132b;
+}
+
+.Nav{
+    text-decoration: none;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    border: solid blanchedalmond ;
+    border-radius: 9%;
+    display: inline-block;
+}
+
+.Profile{
+    width: 5%;
+}
+
+.BgImg{
+    width: 40%;
+    padding: 1%;
+}
+
+.MRImg{
+    width: 23%;
+    padding: 4.5%;
+    border: dotted 1px #c98986;
+}
+
+.MainI{
+    width: 35%;
+    margin: 4%;
+    padding: 1.5%;
+    border: #293b5f solid 1.5px; ;
+}
+
+.hr{
+    width: 1.5px;
+    color: #343f56;
+}
+
+p{
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+    color: black;
+    margin-bottom: 2%;
+}

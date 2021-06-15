@@ -1,0 +1,177 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    color: rgb(212, 207, 184);
+    text-align: center;
+    text-decoration: solid 1px rgb(185, 172, 120);
+}
+
+.MainI{
+    width: 40%;
+    margin: 4%;
+    border: rgb(212, 206, 206) 2px;
+    padding: 2%;
+}
+
+.MainI:hover{
+    margin: 4.5;
+    padding: 1%;
+}
+
+p{
+    color: cornsilk;
+    text-align: justify;
+    background-color: darkgray;
+    width: 100%;
+    display: inline-block;
+    margin: 4%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.BgImg{
+    width: 40%;
+    padding: 1%;
+}
+
+.MRImg{
+    width: 23%;
+    padding: 4%;
+    border: solid 1px #cfc8c7;
+    margin-right: 4%;
+    margin-left: 4%;
+
+}
+
+.MRImg:hover{
+    width: 25%;
+    background-color: rgba(248, 248, 248, 0.753);
+    background-image: none;
+}
+
+.MainC{
+    width: 100%;
+    height: 50%; 
+    background-color: rgb(36, 35, 35);
+    display: block;
+    padding: 5%; 
+    background-attachment: fixed;
+    background-image: url(img/fbg2.jpg);
+}
+
+h2{
+    color: #343f56
+
+}
+
+.SubC{
+    border: rgb(255, 255, 255) 1px solid;
+    padding: 2%;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255,0.4)
+}
+
+.BgImg:hover{
+    width: 43%;
+}
+
+hr{
+    color: rgb(255, 255, 255);
+    height: 2px;
+}
+
+.footer{
+    color: cornsilk; 
+    border: solid rgba(230, 143, 143, 0.5); 
+    background-color: rgb(248, 206, 206); 
+    padding: 2%;
+    margin-top: 11%;
+    padding-bottom: 1%;
+}
+
+.FooterI{
+    width: 3%;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+
+.FooterI:hover{
+    width: 3.5%;
+    box-shadow: #cfc8c7;
+}
+
+.animate__zoomIn{
+    animation-delay: 2s;
+}
+
+.SubD{
+    margin: 2%; 
+    border: oldlace solid 1px; 
+    padding: 1.5%; 
+    background-color: rgba(233, 219, 219, 0.5); 
+    background-image: none;
+}
+
+.BlogI{
+    width: 25%;
+    margin: 0.7px;
+    border: seashell solid 0.5px;
+    padding: 1%;
+    margin-left: 3%;
+    margin-right: 3.5%;
+}
+
+.BlogI:hover{
+    background-color: rgba(233, 219, 219, 0.5);
+}
+
+.CIMG{
+    padding: 9%; 
+    padding-bottom: 0%; 
+    height: 50%; 
+    background-attachment: fixed;
+    opacity: 0.5;
+    padding-top: 3%;
+}
+
+.CC{
+    color: rgb(248, 249, 250);
+    font-size: 100px;
+    text-align: center;
+    padding-bottom: 50%;
+    font-family: cursive;
+}
+
+.CLPS{
+    width: 90%;
+    background-image: none;
+    background-attachment: fixed;
+    background-color: rgba(204, 161, 177, 0.4);
+    margin-left: 5%;
+    margin-top: 2%;
+    border-radius: 0.7%;
+}
+
+.TD{
+    margin-right: 2%;
+    width: 50%;
+}
+
+.Home{
+    padding: 2%;
+    margin-right: 3%;
+}
+
+.SignIn{ 
+    border: oldlace solid 1px; 
+    padding: 1.5%; 
+    background-color: rgba(233, 219, 219, 0.5); 
+    background-image: none;
+}
+
+.signinform{
+    text-align: center;
+}
